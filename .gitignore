@@ -1,0 +1,13 @@
+
+
+.gitignore
+.DS_Store
+.ipynb_checkpoints/
+
+iris.data
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/deps.jl
+
+nohup.out
