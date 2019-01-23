@@ -7,6 +7,8 @@
 * Also the Flux documentation.
 * Also the PR for the 60 minute blitz: wherever that is.
 
+### Chinese Character Images ###
+Chinese character set collected by Ryan Harper (https://github.com/kimrharper) from the web site http://char.iis.sinica.edu.tw.
 
 This README would normally document whatever steps are necessary to get your application up and running.
 
